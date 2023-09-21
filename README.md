@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="typescript-logo.png" alt="TypeScript Logo" width="200">
 
 # TypeScript Learning Journey 🚀
 
@@ -26,6 +25,18 @@ Welcome to my TypeScript learning repository! Here, I'll be documenting my journ
 
 TypeScript offers a robust set of tools and features that can significantly improve code quality, maintainability, and scalability. By documenting my learning process, I hope to share my insights and help others on their TypeScript journey.
 
+---
+
+## How to Use This Repository
+
+1. **Clone the Repository and start exploring:** Start by cloning this repository to your local machine using the following command:
+   ```sh
+   git clone https://github.com/hvardhan1024/TypeScript-Exploration.git
+   cd TypeScript-Essentials
+   npm install 
+      
+
+---
 ## Get in Touch 📫
 
 Feel free to reach out, collaborate, or provide feedback on my TypeScript learning journey. Let's connect and learn together!
@@ -33,4 +44,3 @@ Feel free to reach out, collaborate, or provide feedback on my TypeScript learni
 Happy coding! 👩‍💻👨‍💻
 
 Harshavardhan
-
