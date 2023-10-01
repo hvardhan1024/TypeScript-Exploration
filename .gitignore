@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Built output
+dist/
+build/
+out/
+
+# OS and editor-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Cache and temporary files
+.cache/
+.tmp/
+
+# Visual Studio Code settings
+.vscode/
+
+#other files
+temp
